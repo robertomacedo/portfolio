@@ -343,7 +343,7 @@ header{
     font-family: var(--font-action);
     border-radius: .5rem;
     border: none;
-    color: rgb(116, 99, 99);
+    color: rgb(116, 99, 89);
     box-shadow: 0 .1rem .8rem;
     cursor: pointer;
 }
