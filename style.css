@@ -359,7 +359,7 @@ header{
 }
 .sessao-contato{
     width: 100%;
-    height: 100%;
+    height: 100vh;
     background-color: #272727;
     display: flex;
     align-items: center;
@@ -433,4 +433,33 @@ header{
     height: 2rem;
     margin-top: 1.2rem;
 
+}
+.sessao-orcamento{
+    width: 100%;
+    height: 100vh;
+    background: url(imagens/fundorcamento.jpg);
+    object-fit: cover;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+
+}
+.orcamento-wrapper{
+    width: 60%;
+    height: 80%;
+    background: #ffffff69;
+    border-radius: 9px;
+    box-shadow: 0 0.1rem 3rem rgba(0,0,0, .5);
+    position: relative;
+}
+.sessao-orcamento h1{
+    position: absolute;
+    top: -2.5rem;
+    left: 2rem;
+    padding: 0 3rem;
+    background: #6a3093;
+    background: -webkit-linear-gradient(to right, #a044FF, #6a3093);
+    background: linear-gradient(to left #a044ff, #6a3093);
+    box-shadow: 0 .1rem .8rem;
 }
