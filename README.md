@@ -1,4 +1,4 @@
-# postfolio
+# portfolio
 
 Repositório do programador como exemplo de conhecimentos web
 
